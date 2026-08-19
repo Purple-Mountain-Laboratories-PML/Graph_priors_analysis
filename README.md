@@ -1,4 +1,4 @@
-# GPMTM — 知识图谱先验多任务验证模型（多指标时空域关联异常检测）
+# GPMTM — 知识图谱先验多任务模型（多指标时空域关联异常检测）
 
 > **Author**: jswanglp &lt;wangliangpeng@pmlabs.com&gt; &nbsp;|&nbsp; **Org**: PML &nbsp;|&nbsp; **Date**: 2026-07
 
