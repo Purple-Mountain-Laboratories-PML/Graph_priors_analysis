@@ -1,8 +1,8 @@
-# KG_MTAD — 基于知识图谱的多指标时域关联异常检测
+# GPMTM — 知识图谱先验多任务验证模型（多指标时空域关联异常检测）
 
 > **Author**: jswanglp &lt;wangliangpeng@pmlabs.com&gt; &nbsp;|&nbsp; **Org**: PML &nbsp;|&nbsp; **Date**: 2026-07
 
-基于TensorFlow的多时序KPI异常检测，融合多指标知识图谱邻域特征和时域关联分析，支持单设备/多设备多场景（http/icmp/rtsp）的异常识别。
+融合多指标知识图谱邻域特征（空域）和时域关联分析，支持单设备/多设备多场景（http/icmp/rtsp）的异常识别。
 
 ## 一、项目数据分析
 
