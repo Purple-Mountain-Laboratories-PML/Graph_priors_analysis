@@ -1,6 +1,6 @@
 # GPMTM — Graph-Prior Multi-Task Model (Anomaly Detection Based on Multi-KPI Spatiotemporal Correlation Analysis)
 
-> **Author**: jswanglp &lt;wangliangpeng@pmlabs.com&gt; &nbsp;|&nbsp; **Org**: PML &nbsp;|&nbsp; **Date**: 2026-07
+> **Authors**: S. He &lt;heshiwen@pmlabs.com.cn&gt;, L. Wang &lt;wangliangpeng@pmlabs.com.cn&gt; &nbsp;|&nbsp; **Org**: PML &nbsp;|&nbsp; **Date**: 2026-07
 
 Multi-KPI anomaly detection leveraging knowledge-graph neighborhood features (spatial domain) and temporal correlation analysis, supporting single-device/multi-device anomaly identification across multiple scenarios (http/icmp/rtsp).
 
