@@ -186,7 +186,7 @@ Use the `--adj_type` parameter to control the adjacency matrix type and evaluate
 | `zero` | All-zero adjacency matrix | Disable spatial branch, retain temporal LSTM only |
 | `one` | All-one adjacency matrix | Fully connected graph, verify topology importance |
 | `random` | Random adjacency matrix (fixed seed=42) | Noise baseline |
-| `gat` | Reserved for GAT dynamic adjacency weight learning | Future extension |
+| `gat` | GAT-based dynamic adjacency weight learning | Learn topology via Graph Attention Networks |
 
 #### 2. Run Commands
 
